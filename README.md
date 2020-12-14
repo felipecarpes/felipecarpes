@@ -1,12 +1,12 @@
- <img align="right" width="400" border-radius= 50% height="400" src="https://dribbble.com/shots/14247776-Coding/attachments/5893979?mode=media">
+ <img align="right" width="400" border-radius= 50% height="400" src="https://i.pinimg.com/564x/2a/d5/58/2ad558557717da44df3977299f4af90a.jpg">
 
-## Hi there 👋
+## Hi there, I'm Felipe Carpes 👋
 
 ## About me 
 
-###  Full Stack JavaScript Developer | Tecnólogo em Análise e Desevolvimento de Sistemas
-
-- 
+- 👨‍💻 Full Stack JavaScript Developer | Tecnólogo em Análise e Desevolvimento de Sistemas
+- 🗺 I'm from Santa Cruz do Sul,Rio Grande do Sul - Brazil 🇧🇷
+- 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, NodeJS, GraphQL, MySQL, ExpressJS.
 - 🔭 I’m currently working on @Easyauth Sistemas
 - 🌱 I’m currently learning React Native, NextJS, MongoDB
 
