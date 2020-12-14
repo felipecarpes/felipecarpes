@@ -2,10 +2,10 @@
 
 ## Hi there, I'm Felipe Carpes 👋
 
-## About me 
+### About me 
 
 - 👨‍💻 Full Stack JavaScript Developer | Tecnólogo em Análise e Desevolvimento de Sistemas
-- 🗺 I'm from Santa Cruz do Sul,Rio Grande do Sul - Brazil 🇧🇷
+- 🗺 I'm from Santa Cruz do Sul, Rio Grande do Sul - Brazil 🇧🇷
 - 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, NodeJS, GraphQL, MySQL, ExpressJS.
 - 🔭 I’m currently working on @Easyauth Sistemas
 - 🌱 I’m currently learning React Native, NextJS, MongoDB
