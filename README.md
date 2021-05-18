@@ -6,8 +6,8 @@
 
 - 👨‍💻 Full Stack JavaScript Developer | Tecnólogo em Análise e Desevolvimento de Sistemas
 - 🗺 I'm from Santa Cruz do Sul, Rio Grande do Sul - Brazil 🇧🇷
-- 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, NodeJS, GraphQL, MySQL, ExpressJS.
-- 🔭 I’m currently working on @Easyauth Sistemas
+- 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, VueJS, NodeJS, GraphQL, MySQL, ExpressJS.
+- 🔭 I’m currently working on @Imply Group
 - 🌱 I’m currently learning React Native, NextJS, MongoDB
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipecarpes)](https://github.com/felipecarpes)
