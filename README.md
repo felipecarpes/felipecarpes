@@ -1,4 +1,4 @@
- <img align="right" width="400" border-radius="50px" height="400" src="https://i.pinimg.com/564x/2a/d5/58/2ad558557717da44df3977299f4af90a.jpg">
+<img align="right" width="400" border-radius="10px" height="400" src="https://i.pinimg.com/564x/2a/d5/58/2ad558557717da44df3977299f4af90a.jpg">
 
 # Hi there, I'm Felipe Carpes 👋
 
