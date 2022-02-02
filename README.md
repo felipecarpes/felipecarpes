@@ -2,7 +2,7 @@
 
 ### About me 
 
-- 👨‍💻 Full Stack JavaScript Developer | Tecnólogo em Análise e Desevolvimento de Sistemas
+- 👨‍💻 Frontend Developer | Tecnólogo em Análise e Desevolvimento de Sistemas
 - 🗺 I'm from Santa Cruz do Sul, Rio Grande do Sul - Brazil 🇧🇷
 - 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, VueJS, NodeJS, GraphQL, MySQL, ExpressJS.
 - 🔭 I’m currently working on @ped-imply
